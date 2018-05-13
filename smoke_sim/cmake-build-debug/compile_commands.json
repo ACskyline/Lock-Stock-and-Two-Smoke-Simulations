@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/BGEO.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/BGEO.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/BGEO.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/BIN.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/BIN.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/BIN.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/GEO.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/GEO.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/GEO.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/MC.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/MC.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/MC.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/PDA.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PDA.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PDA.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/PDB.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PDB.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PDB.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/PDC.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PDC.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PDC.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/PTC.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PTC.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PTC.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/PTS.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PTS.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/PTS.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/ParticleIO.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/ParticleIO.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/ParticleIO.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/RIB.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/RIB.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/RIB.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/io/ZIP.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/ZIP.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/io/ZIP.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/core/Particle.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/Particle.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/Particle.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/core/ParticleCaching.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleCaching.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleCaching.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/core/ParticleHeaders.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleHeaders.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleHeaders.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/core/ParticleSimple.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleSimple.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleSimple.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-build/src/lib",
+  "command": "/usr/bin/c++   -I/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/lib  -fPIC -g -Og   -Wextra -Wno-unused-parameter -std=gnu++11 -o CMakeFiles/partio.dir/core/ParticleSimpleInterleave.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleSimpleInterleave.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib/core/ParticleSimpleInterleave.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/main.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/main.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/main.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/smoke_sim.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/smoke_sim.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/smoke_sim.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/mac_grid.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/mac_grid.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/mac_grid.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/vec.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/vec.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/vec.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/grid_data.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/grid_data.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/grid_data.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/camera.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/camera.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/camera.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/fps.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/fps.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/fps.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/constants.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/constants.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/constants.cpp"
+},
+{
+  "directory": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3 -isystem /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-src/src/lib   -fPIC -Wall -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -Og   -std=gnu++11 -o CMakeFiles/SMOKE.dir/basic_math.cpp.o -c /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/basic_math.cpp",
+  "file": "/home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/src/basic_math.cpp"
+}
+]

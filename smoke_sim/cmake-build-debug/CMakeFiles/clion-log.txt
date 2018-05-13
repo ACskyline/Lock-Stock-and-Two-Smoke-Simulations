@@ -1,0 +1,29 @@
+/home/sean/Program/clion-2017.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Debug Build
+-- Debug Build
+-- Found Git: /usr/bin/git (found version "2.7.4") 
+-- Downloading/updating partio
+CMake Error: The current CMakeCache.txt directory /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-download/CMakeCache.txt is different than the directory /Users/joshwolper/Desktop/CIS563_SmokeBaseCode/cmake-build-debug/partio-download where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The current CMakeCache.txt directory /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug/partio-download/CMakeCache.txt is different than the directory /Users/joshwolper/Desktop/CIS563_SmokeBaseCode/cmake-build-debug/partio-download where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+No such file or directory
+CMake Error: Generator: execution of make failed. Make command was: "/opt/local/bin/gmake"
+-- The C compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so  
+-- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+-- Found Eigen3: /usr/include/eigen3 (Required is at least version "2.91.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sean/File/Document/cis563/smoke/CIS563_SmokeBaseCode/cmake-build-debug
